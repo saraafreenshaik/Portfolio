@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: radial-gradient(white, rgb(130, 39, 127),rgb(162, 124, 124));
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+
+}
+div{
+    text-align: center;
+    padding: 500px;
+    
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    text-decoration: dashed;
+    position: relative;
+   
+}
+.button {
+    background-color: #080808;
+    border: 4px solid white;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
